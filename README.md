@@ -1,45 +1,57 @@
 # 👋 Hi there, I'm Kumail Mujtaba (@MujKumail)
-🚀 Machine Learning • Data Science • AI • Full-Stack Development
+🚀 Machine Learning • Data Science • AI • End-to-End Development
 
-### Welcome to my GitHub!
+Welcome to my GitHub!
 I’m a Computer Science (Data Science) undergraduate who loves turning data into insights and models into real-world applications. I enjoy building end-to-end systems — from data preprocessing and ML models to deploying them in web apps.
 
 ## 🔭 About Me
-
 - 👨‍🎓 I’m currently pursuing B.Tech in Computer Science with a specialization in Data Science from Integral University, Lucknow.
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science.
-- 🌱 Currently Learning & Exploring
+ 
+## 🌱 Currently Learning & Exploring
   ### 📊 Machine Learning & Data Science
   
-     Supervised & Unsupervised Learning
-     Feature Engineering & Model Evaluation
-     NLP basics & Recommendation Systems
-     Model Optimization & Overfitting control
+     - Supervised & Unsupervised Learning  
+     - Feature Engineering & Model Evaluation  
+     - NLP Basics & Recommendation Systems  
+     - Model Optimization & Overfitting Control  
   
   ### 🤖 AI & Advanced Topics
   
-    Deep Learning (Neural Networks, TensorFlow)
-    Generative AI & RAG-based systems
-    Agentic AI concepts (LangGraph)
-    Real-world ML pipelines
+    - Deep Learning (Neural Networks, TensorFlow)
+    - Generative AI & RAG-based systems
+    - Agentic AI concepts (LangGraph)
+    - Real-world ML pipelines
                         
   ### 🌐 Development (for ML Deployment)
   
-    Backend APIs with Node.js & Express
-    ML model integration with web apps
-    REST APIs for ML inference
-    MongoDB for data storage
+    - Backend APIs with Node.js & Express
+    - ML model integration with web apps
+    - REST APIs for ML inference
+    - MongoDB for data storage
 
-## Deployment fundamentals
+## 🚀 Deployment Fundamentals
+- Basics of deploying ML models and backend services
+- Understanding model serving and API-based inference
+- Intro to deployment workflows and environments
 
-- 💞️ I’m looking to collaborate on meaningful projects that solve real-world problems.
-- 📫 How to reach me:
-  - Email: [110syedkumail@gmail.com](mailto:110syedkumail@gmail.com)
-  - LinkedIn: [Kumail Mujtaba](https://www.linkedin.com/in/kumailmujtaba/)
-  - GitHub: [@MujKumail](https://github.com/MujKumail)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🔗 Fascinated by the blend of AI + Creativity
-  
+---
+
+## 💞️ Collaboration
+I’m open to collaborating on meaningful projects that solve real-world problems.
+
+---
+
+## 📫 Connect With Me
+- 📧 **Email:** [110syedkumail@gmail.com](mailto:110syedkumail@gmail.com)  
+- 💼 **LinkedIn:** [Kumail Mujtaba](https://www.linkedin.com/in/kumailmujtaba/)  
+- 🧑‍💻 **GitHub:** [@MujKumail](https://github.com/MujKumail)
+
+---
+
+## ✨ Fun Fact
+Fascinated by the blend of **AI + Creativity**
+
 ---
 
 ## 🛠️ Technologies & Tools
